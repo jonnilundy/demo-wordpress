@@ -10,4 +10,4 @@ A demo of [WordPress](https://hub.docker.com/_/wordpress/), [MySQL](https://hub.
 
 ## License
 
-BSD
+[BSD-3-Clause](./LICENSE.md), © Liferay, Inc.
